@@ -12,5 +12,10 @@ let obj= {
 }
 
 const fun = function(){
-    
+
 }
+
+// +++++++++++++++++++++++++++
+
+//Stack(primitive), Heap (Non-primitive)
+
